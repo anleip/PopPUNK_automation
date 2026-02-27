@@ -180,7 +180,7 @@ def percentile_experiment_universal(db_name,dist_name,species="e.coli",x=0.1,r=5
 
 # %%
 
-percentile_experiment_universal(db_name="s.pneumoniae_500_db",dist_name="s.pneumoniae_500_db",species="s.pneumoniae",x=0.2)
+percentile_experiment_universal(db_name="salmonella_enterica_30k_reference_qc_pi0.06",dist_name="salmonella_enterica_30k_reference_qc_pi0.06",species="s.enterica",x=0.01)
 
 
 # %%
